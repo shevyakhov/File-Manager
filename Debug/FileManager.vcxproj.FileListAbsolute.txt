@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\FileManager\Debug\FileManager.exe
+C:\Users\Admin\source\repos\FileManager\Debug\FileManager.pdb

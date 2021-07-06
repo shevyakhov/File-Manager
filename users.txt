@@ -1,0 +1,4 @@
+admin admin 1 1 1
+guest 123 1 0 0
+worker qwerty 1 0 1
+lukin amogus 0 0 0
